@@ -3,13 +3,13 @@ home: true
 actionText: View the Events →
 actionLink: /events/
 
-description: Berlin Blockchain Week is a community-organized initiative. We
+description: Lisbon Blockchain Week is a community-organized initiative. We
   have no single owner. It is an agnostic movement based on the premise that
   self-organization is the backbone of the ecosystem. We invite projects,
   individuals and anyone interested in fruitful and educational discussions to
   join us.
 
-tagline: 5-11 September 2018
+tagline: 4-11 November 2018
 
 features:
 - title: Full Node
@@ -74,12 +74,12 @@ footer:
 
 <hr /><br />
 
-Berlin Blockchain Week is a community-organized initiative. We have no single
+Lisbon Blockchain Week is a community-organized initiative. We have no single
 owner. It is an agnostic movement based on the premise that self-organization
 is the backbone of the ecosystem. We invite projects, individuals and anyone
 interested in fruitful and educational discussions to join us.
 
-Berlin Blockchain Week is committed to reduce the noise from the market and
+Lisbon Blockchain Week is committed to reduce the noise from the market and
 focus on education, in order to push mass adoption via providing first hand
 information about the industry.
 
